@@ -1,0 +1,12 @@
+
+{
+  "name": "NPM-helloworld",
+  "version": "1.0.0",
+  "description": "Print Hello World",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VedantaNeogi/NPM-HelloWorld.git"
+  },
+  "author": "Vedanta Neogi <vedantaneogi@gmail.com>"
+}
